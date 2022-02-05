@@ -12,6 +12,9 @@ The only tow allowed signals are SIGUSR1 and SIGUSR2, I used bit shifting to sen
 
 ## Gif
 
+![Untitled (1)](https://user-images.githubusercontent.com/43113421/152638196-2bb5e082-910d-4a91-81d2-a17502e5b43b.gif)
+
+
 
 ## What I Learned
 In this project, I discovered a new concept in computer science that is process.
